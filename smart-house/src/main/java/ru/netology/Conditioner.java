@@ -1,6 +1,6 @@
 package ru.netology;
 
-public class ConditionerAdvanced {
+public class Conditioner {
     private int maxTemperature = 26;
     private int minTemperature = 16;
     private int currentTemperature;
